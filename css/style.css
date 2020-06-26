@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,400i,700");
+
+h1{
+	font-family: 'Merriweather', seri;$
+}
+
+.jumbotron{
+	margin:0;
+	width:100%;
+	background-color:green;
+}
+
+body{
+	width: 100%;
+	background-color: #FFFF99;
+}
+
+img{
+  border-radius: 50%;
+  webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+
+  display: inline-block;
+}
+
